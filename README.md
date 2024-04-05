@@ -1,4 +1,4 @@
-# n00b01cv
+# n00b01 portfolio
 <b> My brief Cv </b>
 # Hello, I'm Greg Enos
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
