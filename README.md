@@ -2,8 +2,7 @@
 
 # Hello, I'm Greg Enos
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-https://www.linkedin.com/in/grego-enos-21b891302
+[>>](https://www.linkedin.com/in/greg-enos-21b891302/)
 
 I am a recent computer science student with a profound interest in technology and a dedication to solving complex problems in this field.
 
